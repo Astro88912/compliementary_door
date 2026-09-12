@@ -74,7 +74,7 @@ For Hardware:
 ![Components]
 
 ![Build](<img width="1280" height="960" alt="WhatsApp Image 2026-09-12 at 5 30 23 AM" src="https://github.com/user-attachments/assets/38eb5ad1-3445-4537-892b-c087d9d8283d" />
-
+ 
 *Explain the build steps*
 
 ![Final](Add photo of final product here)
