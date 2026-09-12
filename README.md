@@ -2,39 +2,39 @@
 
 
 
-# [Project Name] 🎯
+# compliment door 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: 404_DYAD
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead:HARIMURALI S S - [ACE]
+- Member 2: VIGNESH K S - [ACE]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+OPENING  THE DOOR BUT U have to use complimentry words to open it .
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+teaching people some manners
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+by forcing them to use complimentary words
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
+For Software: mit app developer
+- [block python]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
 
 For Hardware:
-- [List main components]
+- arduino,mini servo motor,bluetooth module ,bread board,jumper wire.
 - [List specifications]
-- [List tools required]
+- gemini ai
 
 ### Implementation
 For Software:
@@ -45,11 +45,11 @@ For Software:
 [commands]
 
 ### Project Documentation
-For Software:
+For Software: mit is used for developinng software to connecct ith phone 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]<img width="1875" height="957" alt="Screenshot 2026-09-12 052357" src="https://github.com/user-attachments/assets/b3ee7da5-5ab2-4711-9576-6e2ef8076448" />
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -71,10 +71,10 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Components]
 
-![Build](Add photos of build process here)
+![Build](<img width="1280" height="960" alt="WhatsApp Image 2026-09-12 at 5 30 23 AM" src="https://github.com/user-attachments/assets/38eb5ad1-3445-4537-892b-c087d9d8283d" />
+
 *Explain the build steps*
 
 ![Final](Add photo of final product here)
@@ -82,16 +82,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/19K_Pb-N2DL8Omh3-WsXHs5T2yEplZp_M/view?usp=drivesdk
+
+actually the project failed some of the arduino got problem we stucked on that hours and we cannot impliment the hardware build totally.In intially we uses lcd screen and ultra sonic senor but due to the techinical problem we cannot use that and our mit app development was a success but not success at connecting the bluetooth 
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [HARIMURALI S S ]: HARDWARE
+- [VIGNESH K S]: SOFTWARE
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
